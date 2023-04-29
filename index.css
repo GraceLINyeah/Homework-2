@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(217, 253, 163);
+    font-family: 'Darumadrop One', cursive;
+}
+.tree_icon {
+    margin-left: 240px;
+    margin-top: 120px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 168, 195);
+    font-size: 100px;
+    background-color:  antiquewhite;
+    border: solid 8px rgb(255, 182, 182);
+    margin-top: 20px;
+}
+
+h2{
+    font-size: 50px ;
+    color: rgb(133, 160, 92);
+    text-decoration: underline;
+    text-align: center;
+}
+div p {
+    font-size: 20px;
+    text-align: center;
+}
+.apple_picking{
+    border: solid rgb(104, 126, 71);
+    text-align: center;
+}
+
+hr{
+    height: 10px;
+    background-color: rgb(104, 126, 71);
+}
+
+iframe{
+    margin-left: 523px;
+    border: solid rgb(104, 126, 71) 8px;
+}
+
+.youtube{
+    margin-left: 690px;
+}
+
+.instagram{
+    margin-left: 20px;
+}
+
+.idk {
+    font-size: 100px;
+    color: rgb(104, 126, 71);
+}
+
+section{
+    font-size: 40px;
+    text-align: center;
+}
+
+.special {
+    font-size: 10px;
+}
